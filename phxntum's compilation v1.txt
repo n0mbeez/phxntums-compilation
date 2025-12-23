@@ -1,0 +1,84 @@
+ppppppppppppp      cccccccccccccc    
+ppppppppppppp      cccccccccccccc    
+ppp        pp      cc
+ppp        pp      cc
+ppp        pp      cc 
+pppppppppppp       cc
+ppp                cc
+ppp                cc
+ppp                ccccccccccccc
+ppp                ccccccccccccc  
+
+phxntum's compilation
+(This file will be updated everytime i get new tools, so be sure to check daily at https://github.com/n0mbeez/phxntums-compilation)
+(check at bottom for more tool compilations)
+
+Compilation of osint tools
+LEGAL USE ONLY!
+
+People searchers (target must be 18+):
+truepeoplesearch.com
+whitepages.com
+
+Ip loggers:
+grabify.link
+iplogger.org
+
+Username compilers (shows all accounts with same user, not 100% accurate):
+whatsmyname.me
+namechk.com (doesnt work if the name has a dot in it)
+
+Data archives:
+intelx.io (fully free)
+intelbase.is (email data breach lookup)
+haveibeenpwned.com (tells what and who has breaches on an email)
+
+Console (xbox,playstation) ip finder:
+xresolver.com
+
+Reverse image search osint:
+mambapanel.com (free option? yes) 
+
+Full osint tools:
+oathnet.org (free option? yes)
+osintcat.com (free option? no)
+
+Security scanner:
+nmap.org
+
+Phone number lookup:
+411.com/phone
+free-lookup.net
+
+GOOGLE DORK EXAMPLES:
+(phone numbers, usernames, emails):
+https://www.google.com/search?q=intext:{}
+https://www.google.com/search?q=intext:{} filetype:txt
+https://www.google.com/search?q=intext:{} filetype:csv
+https://www.google.com/search?q=intext:{} filetype:pdf
+https://www.google.com/search?q=intext:{} filetype:doc
+https://www.google.com/search?q=intext:{} filetype:log
+https://www.google.com/search?q=intitle:{} filetype:txt
+https://www.google.com/search?q=intitle:{} filetype:csv
+https://www.google.com/search?q=intitle:{} filetype:pdf
+https://www.google.com/search?q=intitle:{} filetype:doc
+https://www.google.com/search?q=intitle:{} filetype:log
+
+(sites):
+https://www.google.com/search?q=intitle:index of:/{}
+https://www.google.com/search?q=site:{} filetype:txt
+https://www.google.com/search?q=site:{} filetype:pdf
+https://www.google.com/search?q=site:{} filetype:log
+https://www.google.com/search?q=site:{} filetype:doc
+https://www.google.com/search?q=site:{} filetype:docx
+https://www.google.com/search?q=site:{} filetype:sqlite
+https://www.google.com/search?q=site:{} filetype:yaml
+https://www.google.com/search?q=site:{} filetype:json
+https://www.google.com/search?q=site:{} filetype:md
+https://www.google.com/search?q=site:{} intext:admin OR Admin
+https://www.google.com/search?q=site:{} intext:emails OR Emails OR EMAILS
+https://www.google.com/search?q=site:{} intitle:admin OR Admin
+
+More compilations of tools:
+hackertarget.com
+osintframework.com 
