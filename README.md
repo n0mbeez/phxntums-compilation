@@ -1,3 +1,5 @@
+ALL TOOLS ARENT 100% ACCURATE
+
 This file is a heavy-duty OSINT vault built for deep internet reconnaissance and advanced open-source investigation.
 
 Inside you’ll find a massive collection of hand-picked OSINT tools, databases, breach-checking platforms, username trackers, IP/domain analyzers, metadata extractors, and archive engines — all organized for fast access when you need to pull real information, not fluff.
