@@ -1,5 +1,4 @@
 ALL TOOLS ARENT 100% ACCURATE
-(OPEN THIS TXT FILE IN NOTEPAD++ FOR COLOR CUSTOMIZATION)
 
 This file is a heavy-duty OSINT vault built for deep internet reconnaissance and advanced open-source investigation.
 
